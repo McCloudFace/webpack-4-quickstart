@@ -6,5 +6,5 @@ import index from './js/index';
 // const iAmJavascriptES6 = () => console.log(...arr);
 // window.iAmJavascriptES6 = iAmJavascriptES6;
 
-// import App from "./App";
-// import style from "./main.css";
+import App from "./js/components/App";
+import style from "./main.css";
